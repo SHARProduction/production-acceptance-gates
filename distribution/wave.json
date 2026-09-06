@@ -1,0 +1,2537 @@
+{
+  "schema_version": "1.0.0",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "incremental_spend_rub": 0,
+  "release": {
+    "release_id": "shar.release.production-acceptance-gates.1.0.0",
+    "version": "1.0.0",
+    "immutable_ref": "v1.0.0"
+  },
+  "works": [
+    {
+      "work_id": "shar.work.acceptance-gate.brief-gap-acceptance-gate",
+      "title": {
+        "en": "Incomplete production brief acceptance gate",
+        "ru": "Приёмочный контроль: Неполный производственный бриф"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.scope-drift-acceptance-gate",
+      "title": {
+        "en": "Uncontrolled scope drift acceptance gate",
+        "ru": "Приёмочный контроль: Неконтролируемое изменение объёма"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.approval-owner-missing-acceptance-gate",
+      "title": {
+        "en": "Missing approval owner acceptance gate",
+        "ru": "Приёмочный контроль: Не назначен согласующий"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.rights-expiry-acceptance-gate",
+      "title": {
+        "en": "Usage rights expire before campaign end acceptance gate",
+        "ru": "Приёмочный контроль: Права истекают до конца кампании"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.location-permit-gap-acceptance-gate",
+      "title": {
+        "en": "Location permit gap acceptance gate",
+        "ru": "Приёмочный контроль: Нет разрешения на локацию"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.talent-release-gap-acceptance-gate",
+      "title": {
+        "en": "Talent release gap acceptance gate",
+        "ru": "Приёмочный контроль: Нет согласия участника"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.schedule-collision-acceptance-gate",
+      "title": {
+        "en": "Schedule dependency collision acceptance gate",
+        "ru": "Приёмочный контроль: Конфликт зависимостей графика"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.call-sheet-timezone-acceptance-gate",
+      "title": {
+        "en": "Call sheet timezone mismatch acceptance gate",
+        "ru": "Приёмочный контроль: Ошибка часового пояса в вызывном листе"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.weather-contingency-acceptance-gate",
+      "title": {
+        "en": "Missing weather contingency acceptance gate",
+        "ru": "Приёмочный контроль: Нет погодного резерва"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.backup-gap-acceptance-gate",
+      "title": {
+        "en": "No verified set backup acceptance gate",
+        "ru": "Приёмочный контроль: Нет проверенной резервной копии"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.checksum-mismatch-acceptance-gate",
+      "title": {
+        "en": "Checksum mismatch acceptance gate",
+        "ru": "Приёмочный контроль: Несовпадение контрольной суммы"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.proxy-relink-acceptance-gate",
+      "title": {
+        "en": "Proxy media will not relink acceptance gate",
+        "ru": "Приёмочный контроль: Прокси не перелинковываются"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.timecode-drift-acceptance-gate",
+      "title": {
+        "en": "Audio and picture timecode drift acceptance gate",
+        "ru": "Приёмочный контроль: Дрейф таймкода звука и изображения"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.frame-rate-mismatch-acceptance-gate",
+      "title": {
+        "en": "Frame-rate mismatch acceptance gate",
+        "ru": "Приёмочный контроль: Несовпадение частоты кадров"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.color-space-tag-acceptance-gate",
+      "title": {
+        "en": "Incorrect color-space tag acceptance gate",
+        "ru": "Приёмочный контроль: Неверный тег цветового пространства"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.lut-baked-in-acceptance-gate",
+      "title": {
+        "en": "Look LUT baked into source acceptance gate",
+        "ru": "Приёмочный контроль: LUT запечён в исходник"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.audio-sample-rate-acceptance-gate",
+      "title": {
+        "en": "Audio sample-rate mismatch acceptance gate",
+        "ru": "Приёмочный контроль: Несовпадение частоты дискретизации"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.loudness-fail-acceptance-gate",
+      "title": {
+        "en": "Programme loudness outside target acceptance gate",
+        "ru": "Приёмочный контроль: Громкость программы вне нормы"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.true-peak-clipping-acceptance-gate",
+      "title": {
+        "en": "True-peak clipping acceptance gate",
+        "ru": "Приёмочный контроль: Клиппинг истинного пика"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.caption-overlap-acceptance-gate",
+      "title": {
+        "en": "Overlapping caption cues acceptance gate",
+        "ru": "Приёмочный контроль: Перекрывающиеся субтитры"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.caption-speed-acceptance-gate",
+      "title": {
+        "en": "Caption reading speed too high acceptance gate",
+        "ru": "Приёмочный контроль: Слишком высокая скорость субтитров"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.forced-narrative-acceptance-gate",
+      "title": {
+        "en": "Forced-narrative subtitle missing acceptance gate",
+        "ru": "Приёмочный контроль: Нет форсированного субтитра"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.font-license-acceptance-gate",
+      "title": {
+        "en": "Unverified font license acceptance gate",
+        "ru": "Приёмочный контроль: Не подтверждена лицензия шрифта"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.alpha-loss-acceptance-gate",
+      "title": {
+        "en": "Alpha channel lost acceptance gate",
+        "ru": "Приёмочный контроль: Потерян альфа-канал"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.codec-incompatible-acceptance-gate",
+      "title": {
+        "en": "Codec rejected by destination acceptance gate",
+        "ru": "Приёмочный контроль: Кодек отклонён площадкой"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.metadata-gap-acceptance-gate",
+      "title": {
+        "en": "Container metadata incomplete acceptance gate",
+        "ru": "Приёмочный контроль: Неполные метаданные контейнера"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.aspect-ratio-acceptance-gate",
+      "title": {
+        "en": "Incorrect aspect ratio acceptance gate",
+        "ru": "Приёмочный контроль: Неверное соотношение сторон"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.safe-area-acceptance-gate",
+      "title": {
+        "en": "Graphics outside safe area acceptance gate",
+        "ru": "Приёмочный контроль: Графика вне безопасной зоны"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.field-order-acceptance-gate",
+      "title": {
+        "en": "Field-order artefacts acceptance gate",
+        "ru": "Приёмочный контроль: Артефакты порядка полей"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.gamma-shift-acceptance-gate",
+      "title": {
+        "en": "Gamma shift after export acceptance gate",
+        "ru": "Приёмочный контроль: Сдвиг гаммы после экспорта"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.vfx-handles-acceptance-gate",
+      "title": {
+        "en": "VFX handles too short acceptance gate",
+        "ru": "Приёмочный контроль: Недостаточные монтажные запасы VFX"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.clean-plate-acceptance-gate",
+      "title": {
+        "en": "Clean plate missing acceptance gate",
+        "ru": "Приёмочный контроль: Нет чистого плейта"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.edl-reel-acceptance-gate",
+      "title": {
+        "en": "EDL reel-name mismatch acceptance gate",
+        "ru": "Приёмочный контроль: Несовпадение имён рулонов EDL"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.aaf-offline-acceptance-gate",
+      "title": {
+        "en": "AAF opens with offline media acceptance gate",
+        "ru": "Приёмочный контроль: AAF открывается без медиа"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.xml-retime-acceptance-gate",
+      "title": {
+        "en": "XML retime interpreted incorrectly acceptance gate",
+        "ru": "Приёмочный контроль: Неверная трактовка ретайма XML"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.conform-version-acceptance-gate",
+      "title": {
+        "en": "Wrong cut conformed acceptance gate",
+        "ru": "Приёмочный контроль: Сконформирована неверная версия"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.slate-mismatch-acceptance-gate",
+      "title": {
+        "en": "Slate metadata mismatch acceptance gate",
+        "ru": "Приёмочный контроль: Несовпадение данных хлопушки"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.camera-report-acceptance-gate",
+      "title": {
+        "en": "Camera report incomplete acceptance gate",
+        "ru": "Приёмочный контроль: Неполный камерный отчёт"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.sound-report-acceptance-gate",
+      "title": {
+        "en": "Sound report incomplete acceptance gate",
+        "ru": "Приёмочный контроль: Неполный звуковой отчёт"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.qc-severity-acceptance-gate",
+      "title": {
+        "en": "QC severity classified incorrectly acceptance gate",
+        "ru": "Приёмочный контроль: Неверно определена серьёзность QC"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.filename-collision-acceptance-gate",
+      "title": {
+        "en": "Delivery filename collision acceptance gate",
+        "ru": "Приёмочный контроль: Конфликт имён файлов поставки"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.version-label-acceptance-gate",
+      "title": {
+        "en": "Ambiguous version label acceptance gate",
+        "ru": "Приёмочный контроль: Неоднозначная маркировка версии"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.manifest-gap-acceptance-gate",
+      "title": {
+        "en": "Delivery manifest incomplete acceptance gate",
+        "ru": "Приёмочный контроль: Неполный манифест поставки"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.upload-incomplete-acceptance-gate",
+      "title": {
+        "en": "Upload completed incompletely acceptance gate",
+        "ru": "Приёмочный контроль: Загрузка завершилась не полностью"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.restore-fail-acceptance-gate",
+      "title": {
+        "en": "Archive restore test fails acceptance gate",
+        "ru": "Приёмочный контроль: Не проходит тест восстановления архива"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.duplicate-assets-acceptance-gate",
+      "title": {
+        "en": "Duplicate assets diverge acceptance gate",
+        "ru": "Приёмочный контроль: Дубликаты материалов расходятся"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "work_id": "shar.work.acceptance-gate.approval-stale-acceptance-gate",
+      "title": {
+        "en": "Approval refers to stale version acceptance gate",
+        "ru": "Приёмочный контроль: Согласование относится к старой версии"
+      },
+      "kind": "interactive_bilingual_production_acceptance_gate",
+      "license": "CC-BY-4.0"
+    }
+  ],
+  "representations": [
+    {
+      "representation_id": "shar.representation.acceptance-gate.brief-gap-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.brief-gap-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.brief-gap-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.brief-gap-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.scope-drift-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.scope-drift-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.scope-drift-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.scope-drift-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.approval-owner-missing-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.approval-owner-missing-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.approval-owner-missing-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.approval-owner-missing-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.rights-expiry-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.rights-expiry-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.rights-expiry-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.rights-expiry-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.location-permit-gap-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.location-permit-gap-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.location-permit-gap-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.location-permit-gap-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.talent-release-gap-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.talent-release-gap-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.talent-release-gap-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.talent-release-gap-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.schedule-collision-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.schedule-collision-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.schedule-collision-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.schedule-collision-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.call-sheet-timezone-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.call-sheet-timezone-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.call-sheet-timezone-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.call-sheet-timezone-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.weather-contingency-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.weather-contingency-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.weather-contingency-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.weather-contingency-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.backup-gap-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.backup-gap-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.backup-gap-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.backup-gap-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.checksum-mismatch-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.checksum-mismatch-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.checksum-mismatch-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.checksum-mismatch-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.proxy-relink-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.proxy-relink-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.proxy-relink-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.proxy-relink-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.timecode-drift-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.timecode-drift-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.timecode-drift-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.timecode-drift-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.frame-rate-mismatch-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.frame-rate-mismatch-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.frame-rate-mismatch-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.frame-rate-mismatch-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.color-space-tag-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.color-space-tag-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.color-space-tag-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.color-space-tag-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.lut-baked-in-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.lut-baked-in-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.lut-baked-in-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.lut-baked-in-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.audio-sample-rate-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.audio-sample-rate-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.audio-sample-rate-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.audio-sample-rate-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.loudness-fail-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.loudness-fail-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.loudness-fail-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.loudness-fail-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.true-peak-clipping-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.true-peak-clipping-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.true-peak-clipping-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.true-peak-clipping-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.caption-overlap-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.caption-overlap-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.caption-overlap-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.caption-overlap-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.caption-speed-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.caption-speed-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.caption-speed-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.caption-speed-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.forced-narrative-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.forced-narrative-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.forced-narrative-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.forced-narrative-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.font-license-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.font-license-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.font-license-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.font-license-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.alpha-loss-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.alpha-loss-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.alpha-loss-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.alpha-loss-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.codec-incompatible-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.codec-incompatible-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.codec-incompatible-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.codec-incompatible-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.metadata-gap-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.metadata-gap-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.metadata-gap-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.metadata-gap-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.aspect-ratio-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.aspect-ratio-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.aspect-ratio-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.aspect-ratio-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.safe-area-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.safe-area-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.safe-area-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.safe-area-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.field-order-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.field-order-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.field-order-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.field-order-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.gamma-shift-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.gamma-shift-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.gamma-shift-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.gamma-shift-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.vfx-handles-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.vfx-handles-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.vfx-handles-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.vfx-handles-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.clean-plate-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.clean-plate-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.clean-plate-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.clean-plate-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.edl-reel-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.edl-reel-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.edl-reel-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.edl-reel-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.aaf-offline-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.aaf-offline-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.aaf-offline-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.aaf-offline-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.xml-retime-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.xml-retime-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.xml-retime-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.xml-retime-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.conform-version-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.conform-version-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.conform-version-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.conform-version-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.slate-mismatch-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.slate-mismatch-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.slate-mismatch-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.slate-mismatch-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.camera-report-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.camera-report-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.camera-report-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.camera-report-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.sound-report-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.sound-report-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.sound-report-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.sound-report-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.qc-severity-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.qc-severity-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.qc-severity-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.qc-severity-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.filename-collision-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.filename-collision-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.filename-collision-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.filename-collision-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.version-label-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.version-label-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.version-label-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.version-label-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.manifest-gap-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.manifest-gap-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.manifest-gap-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.manifest-gap-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.upload-incomplete-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.upload-incomplete-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.upload-incomplete-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.upload-incomplete-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.restore-fail-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.restore-fail-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.restore-fail-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.restore-fail-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.duplicate-assets-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.duplicate-assets-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.duplicate-assets-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.duplicate-assets-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.approval-stale-acceptance-gate.en",
+      "work_id": "shar.work.acceptance-gate.approval-stale-acceptance-gate",
+      "language": "en",
+      "format": "interactive_html_acceptance_gate"
+    },
+    {
+      "representation_id": "shar.representation.acceptance-gate.approval-stale-acceptance-gate.ru",
+      "work_id": "shar.work.acceptance-gate.approval-stale-acceptance-gate",
+      "language": "ru",
+      "format": "interactive_html_acceptance_gate"
+    }
+  ],
+  "placements": [
+    {
+      "placement_id": "shar.placement.acceptance-gate.brief-gap-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.brief-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.brief-gap-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/brief-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.brief-gap-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.brief-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.brief-gap-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/brief-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.scope-drift-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.scope-drift-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.scope-drift-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/scope-drift-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.scope-drift-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.scope-drift-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.scope-drift-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/scope-drift-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.approval-owner-missing-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.approval-owner-missing-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.approval-owner-missing-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/approval-owner-missing-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.approval-owner-missing-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.approval-owner-missing-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.approval-owner-missing-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/approval-owner-missing-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.rights-expiry-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.rights-expiry-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.rights-expiry-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/rights-expiry-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.rights-expiry-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.rights-expiry-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.rights-expiry-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/rights-expiry-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.location-permit-gap-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.location-permit-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.location-permit-gap-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/location-permit-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.location-permit-gap-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.location-permit-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.location-permit-gap-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/location-permit-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.talent-release-gap-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.talent-release-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.talent-release-gap-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/talent-release-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.talent-release-gap-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.talent-release-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.talent-release-gap-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/talent-release-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.schedule-collision-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.schedule-collision-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.schedule-collision-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/schedule-collision-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.schedule-collision-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.schedule-collision-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.schedule-collision-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/schedule-collision-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.call-sheet-timezone-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.call-sheet-timezone-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.call-sheet-timezone-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/call-sheet-timezone-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.call-sheet-timezone-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.call-sheet-timezone-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.call-sheet-timezone-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/call-sheet-timezone-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.weather-contingency-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.weather-contingency-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.weather-contingency-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/weather-contingency-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.weather-contingency-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.weather-contingency-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.weather-contingency-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/weather-contingency-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.backup-gap-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.backup-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.backup-gap-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/backup-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.backup-gap-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.backup-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.backup-gap-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/backup-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.checksum-mismatch-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.checksum-mismatch-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.checksum-mismatch-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/checksum-mismatch-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.checksum-mismatch-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.checksum-mismatch-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.checksum-mismatch-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/checksum-mismatch-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.proxy-relink-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.proxy-relink-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.proxy-relink-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/proxy-relink-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.proxy-relink-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.proxy-relink-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.proxy-relink-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/proxy-relink-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.timecode-drift-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.timecode-drift-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.timecode-drift-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/timecode-drift-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.timecode-drift-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.timecode-drift-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.timecode-drift-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/timecode-drift-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.frame-rate-mismatch-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.frame-rate-mismatch-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.frame-rate-mismatch-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/frame-rate-mismatch-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.frame-rate-mismatch-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.frame-rate-mismatch-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.frame-rate-mismatch-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/frame-rate-mismatch-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.color-space-tag-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.color-space-tag-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.color-space-tag-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/color-space-tag-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.color-space-tag-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.color-space-tag-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.color-space-tag-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/color-space-tag-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.lut-baked-in-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.lut-baked-in-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.lut-baked-in-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/lut-baked-in-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.lut-baked-in-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.lut-baked-in-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.lut-baked-in-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/lut-baked-in-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.audio-sample-rate-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.audio-sample-rate-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.audio-sample-rate-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/audio-sample-rate-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.audio-sample-rate-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.audio-sample-rate-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.audio-sample-rate-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/audio-sample-rate-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.loudness-fail-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.loudness-fail-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.loudness-fail-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/loudness-fail-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.loudness-fail-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.loudness-fail-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.loudness-fail-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/loudness-fail-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.true-peak-clipping-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.true-peak-clipping-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.true-peak-clipping-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/true-peak-clipping-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.true-peak-clipping-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.true-peak-clipping-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.true-peak-clipping-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/true-peak-clipping-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.caption-overlap-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.caption-overlap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.caption-overlap-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/caption-overlap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.caption-overlap-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.caption-overlap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.caption-overlap-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/caption-overlap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.caption-speed-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.caption-speed-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.caption-speed-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/caption-speed-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.caption-speed-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.caption-speed-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.caption-speed-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/caption-speed-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.forced-narrative-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.forced-narrative-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.forced-narrative-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/forced-narrative-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.forced-narrative-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.forced-narrative-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.forced-narrative-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/forced-narrative-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.font-license-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.font-license-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.font-license-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/font-license-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.font-license-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.font-license-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.font-license-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/font-license-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.alpha-loss-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.alpha-loss-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.alpha-loss-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/alpha-loss-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.alpha-loss-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.alpha-loss-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.alpha-loss-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/alpha-loss-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.codec-incompatible-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.codec-incompatible-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.codec-incompatible-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/codec-incompatible-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.codec-incompatible-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.codec-incompatible-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.codec-incompatible-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/codec-incompatible-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.metadata-gap-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.metadata-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.metadata-gap-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/metadata-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.metadata-gap-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.metadata-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.metadata-gap-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/metadata-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.aspect-ratio-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.aspect-ratio-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.aspect-ratio-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/aspect-ratio-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.aspect-ratio-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.aspect-ratio-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.aspect-ratio-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/aspect-ratio-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.safe-area-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.safe-area-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.safe-area-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/safe-area-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.safe-area-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.safe-area-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.safe-area-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/safe-area-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.field-order-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.field-order-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.field-order-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/field-order-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.field-order-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.field-order-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.field-order-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/field-order-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.gamma-shift-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.gamma-shift-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.gamma-shift-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/gamma-shift-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.gamma-shift-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.gamma-shift-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.gamma-shift-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/gamma-shift-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.vfx-handles-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.vfx-handles-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.vfx-handles-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/vfx-handles-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.vfx-handles-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.vfx-handles-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.vfx-handles-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/vfx-handles-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.clean-plate-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.clean-plate-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.clean-plate-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/clean-plate-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.clean-plate-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.clean-plate-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.clean-plate-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/clean-plate-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.edl-reel-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.edl-reel-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.edl-reel-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/edl-reel-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.edl-reel-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.edl-reel-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.edl-reel-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/edl-reel-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.aaf-offline-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.aaf-offline-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.aaf-offline-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/aaf-offline-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.aaf-offline-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.aaf-offline-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.aaf-offline-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/aaf-offline-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.xml-retime-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.xml-retime-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.xml-retime-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/xml-retime-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.xml-retime-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.xml-retime-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.xml-retime-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/xml-retime-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.conform-version-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.conform-version-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.conform-version-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/conform-version-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.conform-version-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.conform-version-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.conform-version-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/conform-version-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.slate-mismatch-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.slate-mismatch-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.slate-mismatch-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/slate-mismatch-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.slate-mismatch-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.slate-mismatch-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.slate-mismatch-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/slate-mismatch-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.camera-report-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.camera-report-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.camera-report-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/camera-report-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.camera-report-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.camera-report-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.camera-report-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/camera-report-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.sound-report-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.sound-report-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.sound-report-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/sound-report-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.sound-report-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.sound-report-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.sound-report-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/sound-report-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.qc-severity-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.qc-severity-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.qc-severity-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/qc-severity-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.qc-severity-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.qc-severity-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.qc-severity-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/qc-severity-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.filename-collision-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.filename-collision-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.filename-collision-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/filename-collision-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.filename-collision-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.filename-collision-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.filename-collision-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/filename-collision-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.version-label-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.version-label-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.version-label-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/version-label-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.version-label-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.version-label-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.version-label-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/version-label-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.manifest-gap-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.manifest-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.manifest-gap-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/manifest-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.manifest-gap-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.manifest-gap-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.manifest-gap-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/manifest-gap-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.upload-incomplete-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.upload-incomplete-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.upload-incomplete-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/upload-incomplete-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.upload-incomplete-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.upload-incomplete-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.upload-incomplete-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/upload-incomplete-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.restore-fail-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.restore-fail-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.restore-fail-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/restore-fail-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.restore-fail-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.restore-fail-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.restore-fail-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/restore-fail-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.duplicate-assets-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.duplicate-assets-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.duplicate-assets-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/duplicate-assets-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.duplicate-assets-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.duplicate-assets-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.duplicate-assets-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/duplicate-assets-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.approval-stale-acceptance-gate.cloudflare.en",
+      "work_ids": [
+        "shar.work.acceptance-gate.approval-stale-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.approval-stale-acceptance-gate.en"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/en/approval-stale-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.acceptance-gate.approval-stale-acceptance-gate.cloudflare.ru",
+      "work_ids": [
+        "shar.work.acceptance-gate.approval-stale-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.approval-stale-acceptance-gate.ru"
+      ],
+      "provider": "Cloudflare Pages",
+      "ownership_group": "cloudflare-account-75c1f9254ca84261915fdae717f25395",
+      "public_url": "https://shar-production-open-tools.pages.dev/acceptance-gates/ru/approval-stale-acceptance-gate/",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.production-acceptance-gates.github",
+      "work_ids": [
+        "shar.work.acceptance-gate.brief-gap-acceptance-gate",
+        "shar.work.acceptance-gate.scope-drift-acceptance-gate",
+        "shar.work.acceptance-gate.approval-owner-missing-acceptance-gate",
+        "shar.work.acceptance-gate.rights-expiry-acceptance-gate",
+        "shar.work.acceptance-gate.location-permit-gap-acceptance-gate",
+        "shar.work.acceptance-gate.talent-release-gap-acceptance-gate",
+        "shar.work.acceptance-gate.schedule-collision-acceptance-gate",
+        "shar.work.acceptance-gate.call-sheet-timezone-acceptance-gate",
+        "shar.work.acceptance-gate.weather-contingency-acceptance-gate",
+        "shar.work.acceptance-gate.backup-gap-acceptance-gate",
+        "shar.work.acceptance-gate.checksum-mismatch-acceptance-gate",
+        "shar.work.acceptance-gate.proxy-relink-acceptance-gate",
+        "shar.work.acceptance-gate.timecode-drift-acceptance-gate",
+        "shar.work.acceptance-gate.frame-rate-mismatch-acceptance-gate",
+        "shar.work.acceptance-gate.color-space-tag-acceptance-gate",
+        "shar.work.acceptance-gate.lut-baked-in-acceptance-gate",
+        "shar.work.acceptance-gate.audio-sample-rate-acceptance-gate",
+        "shar.work.acceptance-gate.loudness-fail-acceptance-gate",
+        "shar.work.acceptance-gate.true-peak-clipping-acceptance-gate",
+        "shar.work.acceptance-gate.caption-overlap-acceptance-gate",
+        "shar.work.acceptance-gate.caption-speed-acceptance-gate",
+        "shar.work.acceptance-gate.forced-narrative-acceptance-gate",
+        "shar.work.acceptance-gate.font-license-acceptance-gate",
+        "shar.work.acceptance-gate.alpha-loss-acceptance-gate",
+        "shar.work.acceptance-gate.codec-incompatible-acceptance-gate",
+        "shar.work.acceptance-gate.metadata-gap-acceptance-gate",
+        "shar.work.acceptance-gate.aspect-ratio-acceptance-gate",
+        "shar.work.acceptance-gate.safe-area-acceptance-gate",
+        "shar.work.acceptance-gate.field-order-acceptance-gate",
+        "shar.work.acceptance-gate.gamma-shift-acceptance-gate",
+        "shar.work.acceptance-gate.vfx-handles-acceptance-gate",
+        "shar.work.acceptance-gate.clean-plate-acceptance-gate",
+        "shar.work.acceptance-gate.edl-reel-acceptance-gate",
+        "shar.work.acceptance-gate.aaf-offline-acceptance-gate",
+        "shar.work.acceptance-gate.xml-retime-acceptance-gate",
+        "shar.work.acceptance-gate.conform-version-acceptance-gate",
+        "shar.work.acceptance-gate.slate-mismatch-acceptance-gate",
+        "shar.work.acceptance-gate.camera-report-acceptance-gate",
+        "shar.work.acceptance-gate.sound-report-acceptance-gate",
+        "shar.work.acceptance-gate.qc-severity-acceptance-gate",
+        "shar.work.acceptance-gate.filename-collision-acceptance-gate",
+        "shar.work.acceptance-gate.version-label-acceptance-gate",
+        "shar.work.acceptance-gate.manifest-gap-acceptance-gate",
+        "shar.work.acceptance-gate.upload-incomplete-acceptance-gate",
+        "shar.work.acceptance-gate.restore-fail-acceptance-gate",
+        "shar.work.acceptance-gate.duplicate-assets-acceptance-gate",
+        "shar.work.acceptance-gate.approval-stale-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.brief-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.brief-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.scope-drift-acceptance-gate.en",
+        "shar.representation.acceptance-gate.scope-drift-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.approval-owner-missing-acceptance-gate.en",
+        "shar.representation.acceptance-gate.approval-owner-missing-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.rights-expiry-acceptance-gate.en",
+        "shar.representation.acceptance-gate.rights-expiry-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.location-permit-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.location-permit-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.talent-release-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.talent-release-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.schedule-collision-acceptance-gate.en",
+        "shar.representation.acceptance-gate.schedule-collision-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.call-sheet-timezone-acceptance-gate.en",
+        "shar.representation.acceptance-gate.call-sheet-timezone-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.weather-contingency-acceptance-gate.en",
+        "shar.representation.acceptance-gate.weather-contingency-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.backup-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.backup-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.checksum-mismatch-acceptance-gate.en",
+        "shar.representation.acceptance-gate.checksum-mismatch-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.proxy-relink-acceptance-gate.en",
+        "shar.representation.acceptance-gate.proxy-relink-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.timecode-drift-acceptance-gate.en",
+        "shar.representation.acceptance-gate.timecode-drift-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.frame-rate-mismatch-acceptance-gate.en",
+        "shar.representation.acceptance-gate.frame-rate-mismatch-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.color-space-tag-acceptance-gate.en",
+        "shar.representation.acceptance-gate.color-space-tag-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.lut-baked-in-acceptance-gate.en",
+        "shar.representation.acceptance-gate.lut-baked-in-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.audio-sample-rate-acceptance-gate.en",
+        "shar.representation.acceptance-gate.audio-sample-rate-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.loudness-fail-acceptance-gate.en",
+        "shar.representation.acceptance-gate.loudness-fail-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.true-peak-clipping-acceptance-gate.en",
+        "shar.representation.acceptance-gate.true-peak-clipping-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.caption-overlap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.caption-overlap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.caption-speed-acceptance-gate.en",
+        "shar.representation.acceptance-gate.caption-speed-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.forced-narrative-acceptance-gate.en",
+        "shar.representation.acceptance-gate.forced-narrative-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.font-license-acceptance-gate.en",
+        "shar.representation.acceptance-gate.font-license-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.alpha-loss-acceptance-gate.en",
+        "shar.representation.acceptance-gate.alpha-loss-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.codec-incompatible-acceptance-gate.en",
+        "shar.representation.acceptance-gate.codec-incompatible-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.metadata-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.metadata-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.aspect-ratio-acceptance-gate.en",
+        "shar.representation.acceptance-gate.aspect-ratio-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.safe-area-acceptance-gate.en",
+        "shar.representation.acceptance-gate.safe-area-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.field-order-acceptance-gate.en",
+        "shar.representation.acceptance-gate.field-order-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.gamma-shift-acceptance-gate.en",
+        "shar.representation.acceptance-gate.gamma-shift-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.vfx-handles-acceptance-gate.en",
+        "shar.representation.acceptance-gate.vfx-handles-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.clean-plate-acceptance-gate.en",
+        "shar.representation.acceptance-gate.clean-plate-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.edl-reel-acceptance-gate.en",
+        "shar.representation.acceptance-gate.edl-reel-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.aaf-offline-acceptance-gate.en",
+        "shar.representation.acceptance-gate.aaf-offline-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.xml-retime-acceptance-gate.en",
+        "shar.representation.acceptance-gate.xml-retime-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.conform-version-acceptance-gate.en",
+        "shar.representation.acceptance-gate.conform-version-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.slate-mismatch-acceptance-gate.en",
+        "shar.representation.acceptance-gate.slate-mismatch-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.camera-report-acceptance-gate.en",
+        "shar.representation.acceptance-gate.camera-report-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.sound-report-acceptance-gate.en",
+        "shar.representation.acceptance-gate.sound-report-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.qc-severity-acceptance-gate.en",
+        "shar.representation.acceptance-gate.qc-severity-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.filename-collision-acceptance-gate.en",
+        "shar.representation.acceptance-gate.filename-collision-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.version-label-acceptance-gate.en",
+        "shar.representation.acceptance-gate.version-label-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.manifest-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.manifest-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.upload-incomplete-acceptance-gate.en",
+        "shar.representation.acceptance-gate.upload-incomplete-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.restore-fail-acceptance-gate.en",
+        "shar.representation.acceptance-gate.restore-fail-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.duplicate-assets-acceptance-gate.en",
+        "shar.representation.acceptance-gate.duplicate-assets-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.approval-stale-acceptance-gate.en",
+        "shar.representation.acceptance-gate.approval-stale-acceptance-gate.ru"
+      ],
+      "provider": "GitHub",
+      "ownership_group": "SHARProduction",
+      "public_url": "https://github.com/SHARProduction/production-acceptance-gates",
+      "status": "PLANNED"
+    },
+    {
+      "placement_id": "shar.placement.production-acceptance-gates.huggingface",
+      "work_ids": [
+        "shar.work.acceptance-gate.brief-gap-acceptance-gate",
+        "shar.work.acceptance-gate.scope-drift-acceptance-gate",
+        "shar.work.acceptance-gate.approval-owner-missing-acceptance-gate",
+        "shar.work.acceptance-gate.rights-expiry-acceptance-gate",
+        "shar.work.acceptance-gate.location-permit-gap-acceptance-gate",
+        "shar.work.acceptance-gate.talent-release-gap-acceptance-gate",
+        "shar.work.acceptance-gate.schedule-collision-acceptance-gate",
+        "shar.work.acceptance-gate.call-sheet-timezone-acceptance-gate",
+        "shar.work.acceptance-gate.weather-contingency-acceptance-gate",
+        "shar.work.acceptance-gate.backup-gap-acceptance-gate",
+        "shar.work.acceptance-gate.checksum-mismatch-acceptance-gate",
+        "shar.work.acceptance-gate.proxy-relink-acceptance-gate",
+        "shar.work.acceptance-gate.timecode-drift-acceptance-gate",
+        "shar.work.acceptance-gate.frame-rate-mismatch-acceptance-gate",
+        "shar.work.acceptance-gate.color-space-tag-acceptance-gate",
+        "shar.work.acceptance-gate.lut-baked-in-acceptance-gate",
+        "shar.work.acceptance-gate.audio-sample-rate-acceptance-gate",
+        "shar.work.acceptance-gate.loudness-fail-acceptance-gate",
+        "shar.work.acceptance-gate.true-peak-clipping-acceptance-gate",
+        "shar.work.acceptance-gate.caption-overlap-acceptance-gate",
+        "shar.work.acceptance-gate.caption-speed-acceptance-gate",
+        "shar.work.acceptance-gate.forced-narrative-acceptance-gate",
+        "shar.work.acceptance-gate.font-license-acceptance-gate",
+        "shar.work.acceptance-gate.alpha-loss-acceptance-gate",
+        "shar.work.acceptance-gate.codec-incompatible-acceptance-gate",
+        "shar.work.acceptance-gate.metadata-gap-acceptance-gate",
+        "shar.work.acceptance-gate.aspect-ratio-acceptance-gate",
+        "shar.work.acceptance-gate.safe-area-acceptance-gate",
+        "shar.work.acceptance-gate.field-order-acceptance-gate",
+        "shar.work.acceptance-gate.gamma-shift-acceptance-gate",
+        "shar.work.acceptance-gate.vfx-handles-acceptance-gate",
+        "shar.work.acceptance-gate.clean-plate-acceptance-gate",
+        "shar.work.acceptance-gate.edl-reel-acceptance-gate",
+        "shar.work.acceptance-gate.aaf-offline-acceptance-gate",
+        "shar.work.acceptance-gate.xml-retime-acceptance-gate",
+        "shar.work.acceptance-gate.conform-version-acceptance-gate",
+        "shar.work.acceptance-gate.slate-mismatch-acceptance-gate",
+        "shar.work.acceptance-gate.camera-report-acceptance-gate",
+        "shar.work.acceptance-gate.sound-report-acceptance-gate",
+        "shar.work.acceptance-gate.qc-severity-acceptance-gate",
+        "shar.work.acceptance-gate.filename-collision-acceptance-gate",
+        "shar.work.acceptance-gate.version-label-acceptance-gate",
+        "shar.work.acceptance-gate.manifest-gap-acceptance-gate",
+        "shar.work.acceptance-gate.upload-incomplete-acceptance-gate",
+        "shar.work.acceptance-gate.restore-fail-acceptance-gate",
+        "shar.work.acceptance-gate.duplicate-assets-acceptance-gate",
+        "shar.work.acceptance-gate.approval-stale-acceptance-gate"
+      ],
+      "representation_ids": [
+        "shar.representation.acceptance-gate.brief-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.brief-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.scope-drift-acceptance-gate.en",
+        "shar.representation.acceptance-gate.scope-drift-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.approval-owner-missing-acceptance-gate.en",
+        "shar.representation.acceptance-gate.approval-owner-missing-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.rights-expiry-acceptance-gate.en",
+        "shar.representation.acceptance-gate.rights-expiry-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.location-permit-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.location-permit-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.talent-release-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.talent-release-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.schedule-collision-acceptance-gate.en",
+        "shar.representation.acceptance-gate.schedule-collision-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.call-sheet-timezone-acceptance-gate.en",
+        "shar.representation.acceptance-gate.call-sheet-timezone-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.weather-contingency-acceptance-gate.en",
+        "shar.representation.acceptance-gate.weather-contingency-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.backup-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.backup-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.checksum-mismatch-acceptance-gate.en",
+        "shar.representation.acceptance-gate.checksum-mismatch-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.proxy-relink-acceptance-gate.en",
+        "shar.representation.acceptance-gate.proxy-relink-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.timecode-drift-acceptance-gate.en",
+        "shar.representation.acceptance-gate.timecode-drift-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.frame-rate-mismatch-acceptance-gate.en",
+        "shar.representation.acceptance-gate.frame-rate-mismatch-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.color-space-tag-acceptance-gate.en",
+        "shar.representation.acceptance-gate.color-space-tag-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.lut-baked-in-acceptance-gate.en",
+        "shar.representation.acceptance-gate.lut-baked-in-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.audio-sample-rate-acceptance-gate.en",
+        "shar.representation.acceptance-gate.audio-sample-rate-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.loudness-fail-acceptance-gate.en",
+        "shar.representation.acceptance-gate.loudness-fail-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.true-peak-clipping-acceptance-gate.en",
+        "shar.representation.acceptance-gate.true-peak-clipping-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.caption-overlap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.caption-overlap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.caption-speed-acceptance-gate.en",
+        "shar.representation.acceptance-gate.caption-speed-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.forced-narrative-acceptance-gate.en",
+        "shar.representation.acceptance-gate.forced-narrative-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.font-license-acceptance-gate.en",
+        "shar.representation.acceptance-gate.font-license-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.alpha-loss-acceptance-gate.en",
+        "shar.representation.acceptance-gate.alpha-loss-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.codec-incompatible-acceptance-gate.en",
+        "shar.representation.acceptance-gate.codec-incompatible-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.metadata-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.metadata-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.aspect-ratio-acceptance-gate.en",
+        "shar.representation.acceptance-gate.aspect-ratio-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.safe-area-acceptance-gate.en",
+        "shar.representation.acceptance-gate.safe-area-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.field-order-acceptance-gate.en",
+        "shar.representation.acceptance-gate.field-order-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.gamma-shift-acceptance-gate.en",
+        "shar.representation.acceptance-gate.gamma-shift-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.vfx-handles-acceptance-gate.en",
+        "shar.representation.acceptance-gate.vfx-handles-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.clean-plate-acceptance-gate.en",
+        "shar.representation.acceptance-gate.clean-plate-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.edl-reel-acceptance-gate.en",
+        "shar.representation.acceptance-gate.edl-reel-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.aaf-offline-acceptance-gate.en",
+        "shar.representation.acceptance-gate.aaf-offline-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.xml-retime-acceptance-gate.en",
+        "shar.representation.acceptance-gate.xml-retime-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.conform-version-acceptance-gate.en",
+        "shar.representation.acceptance-gate.conform-version-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.slate-mismatch-acceptance-gate.en",
+        "shar.representation.acceptance-gate.slate-mismatch-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.camera-report-acceptance-gate.en",
+        "shar.representation.acceptance-gate.camera-report-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.sound-report-acceptance-gate.en",
+        "shar.representation.acceptance-gate.sound-report-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.qc-severity-acceptance-gate.en",
+        "shar.representation.acceptance-gate.qc-severity-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.filename-collision-acceptance-gate.en",
+        "shar.representation.acceptance-gate.filename-collision-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.version-label-acceptance-gate.en",
+        "shar.representation.acceptance-gate.version-label-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.manifest-gap-acceptance-gate.en",
+        "shar.representation.acceptance-gate.manifest-gap-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.upload-incomplete-acceptance-gate.en",
+        "shar.representation.acceptance-gate.upload-incomplete-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.restore-fail-acceptance-gate.en",
+        "shar.representation.acceptance-gate.restore-fail-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.duplicate-assets-acceptance-gate.en",
+        "shar.representation.acceptance-gate.duplicate-assets-acceptance-gate.ru",
+        "shar.representation.acceptance-gate.approval-stale-acceptance-gate.en",
+        "shar.representation.acceptance-gate.approval-stale-acceptance-gate.ru"
+      ],
+      "provider": "Hugging Face",
+      "ownership_group": "SHARProduction",
+      "public_url": "https://huggingface.co/datasets/SHARProduction/production-acceptance-gates",
+      "status": "PLANNED"
+    }
+  ],
+  "counting": {
+    "unique_works": 47,
+    "localized_representations": 94,
+    "verified_placements_when_all_checks_pass": 96
+  }
+}
