@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "submitted_at": "2026-09-06T04:14:02.868Z",
+  "endpoint": "https://api.indexnow.org/indexnow",
+  "prefix": "https://shar-production-open-tools.pages.dev/acceptance-gates/",
+  "url_count": 96,
+  "url_list_sha256": "9b7283c8dab4487aaf36adf957b817a5053c84f060a08caf449dab92d349be72",
+  "http_status": 200,
+  "status": "SUBMISSION_ACCEPTED_INDEXING_NOT_GUARANTEED"
+}

@@ -1,0 +1,1634 @@
+{
+  "shar.placement.acceptance-gate.brief-gap-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.brief-gap-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.scope-drift-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.scope-drift-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.approval-owner-missing-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.approval-owner-missing-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.rights-expiry-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.rights-expiry-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.location-permit-gap-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.location-permit-gap-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.talent-release-gap-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.talent-release-gap-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.schedule-collision-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.schedule-collision-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.call-sheet-timezone-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.call-sheet-timezone-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.weather-contingency-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.weather-contingency-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.backup-gap-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.backup-gap-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.checksum-mismatch-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.checksum-mismatch-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.proxy-relink-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.proxy-relink-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.timecode-drift-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.timecode-drift-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.frame-rate-mismatch-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.frame-rate-mismatch-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.color-space-tag-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.color-space-tag-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.lut-baked-in-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.lut-baked-in-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.audio-sample-rate-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.audio-sample-rate-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.loudness-fail-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.loudness-fail-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.true-peak-clipping-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.true-peak-clipping-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.caption-overlap-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.caption-overlap-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.caption-speed-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.caption-speed-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.forced-narrative-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.forced-narrative-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.font-license-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.font-license-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.alpha-loss-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.alpha-loss-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.codec-incompatible-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.codec-incompatible-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.metadata-gap-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.metadata-gap-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.aspect-ratio-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.aspect-ratio-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.safe-area-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.safe-area-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.field-order-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.field-order-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.gamma-shift-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.gamma-shift-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.vfx-handles-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.vfx-handles-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.clean-plate-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.clean-plate-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.edl-reel-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.edl-reel-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.aaf-offline-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.aaf-offline-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.xml-retime-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.xml-retime-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.conform-version-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.conform-version-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.slate-mismatch-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.slate-mismatch-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.camera-report-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.camera-report-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.sound-report-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.sound-report-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.qc-severity-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.qc-severity-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.filename-collision-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.filename-collision-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.version-label-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.version-label-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.manifest-gap-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.manifest-gap-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.upload-incomplete-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.upload-incomplete-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.restore-fail-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.restore-fail-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.duplicate-assets-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.duplicate-assets-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.approval-stale-acceptance-gate.cloudflare.en": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.acceptance-gate.approval-stale-acceptance-gate.cloudflare.ru": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "8507c6d2-2c59-4fbb-828c-b7680fb5b51c@06b2d6675e480e53a4076cf56937daa9ed24d8be",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public page returned HTTP 200 with exact canonical and index,follow robots.",
+        "Browser verified four criteria, WebApplication schema, SHAR Production identity and no overflow at 1280px desktop and 390x900 mobile viewports.",
+        "Checkbox progress and reset behavior passed on representative EN and RU pages."
+      ]
+    }
+  },
+  "shar.placement.production-acceptance-gates.github": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "v1.0.0@3cdcfb6321156f8cac2766d7c160412ec0e2404f",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public repository and immutable release returned HTTP 200.",
+        "GitHub Actions run 34010761080 completed successfully.",
+        "Immutable gates.jsonl exposes exactly 47 branded bilingual records."
+      ]
+    }
+  },
+  "shar.placement.production-acceptance-gates.huggingface": {
+    "status": "PUBLISHED_VERIFIED",
+    "verified_at": "2026-09-06T04:21:04Z",
+    "provider_version": "db963279483901352b26c0db663cf0c761b228f9",
+    "verification": {
+      "http_status": 200,
+      "content_checked": true,
+      "function_checked": true,
+      "owner_checked": true,
+      "version_checked": true,
+      "details": [
+        "Public dataset and immutable commit returned HTTP 200.",
+        "Dataset card records SHAR Production, CC-BY-4.0 and AI assistance disclosure.",
+        "gates.jsonl exposes exactly 47 branded bilingual records."
+      ]
+    }
+  }
+}
